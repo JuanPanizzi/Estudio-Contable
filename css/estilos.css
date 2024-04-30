@@ -427,7 +427,10 @@ footer {
 .btn-footer:hover{
     cursor: default;
 }
-
+#derechos{
+    font-size: 0.8rem;
+    text-align: center;
+}
 /* Breakpoints responsive */
 
 @media screen and (max-width:800px) {
